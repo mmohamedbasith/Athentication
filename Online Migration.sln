@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Online Migration", "Online Migration\Online Migration.csproj", "{85E7C99F-5FEC-45BB-97A0-2A362678037B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85E7C99F-5FEC-45BB-97A0-2A362678037B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E7C99F-5FEC-45BB-97A0-2A362678037B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E7C99F-5FEC-45BB-97A0-2A362678037B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E7C99F-5FEC-45BB-97A0-2A362678037B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67B84750-BC59-47D6-AAF9-97930136C7DB}
+	EndGlobalSection
+EndGlobal
